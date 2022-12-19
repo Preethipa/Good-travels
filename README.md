@@ -1,5 +1,5 @@
 # Good-travels
-Created with CodeSandbox
+Created with CodeSandbox.
 Welcome to my profilio! I make this recommendation app by using JavaScript, HTML and CSS learned from neog.camp.
 Do you love to trave many places? If yes, you would find some recommendation places for travel. 
 
